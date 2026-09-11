@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
- 
+     <link rel="stylesheet"   href="bphoche.css"> 
     <title>BP Hoche</title>
 
     <style>
@@ -113,7 +113,27 @@
 </head>
 
 <body>
-
+<div id="header"><h6><strong>BP HOCHE</strong></h6>
+<button id="menuButton">
+    <span></span>
+    <span></span>
+    <span></span>
+</button>
+<nav id="sidebar">
+    <br>
+    <a href="index.html">Home</a>
+    <a href="nonfini.html">Membres</a>
+    <a href="nonfini.html">Contact</a>
+    <br>
+</nav>
+<select id="language">
+    <option value="fr" selected>FR</option>
+    <option value="en">EN</option>
+</select>
+</div>
+<audio id="music" autoplay loop>
+    <source src="extrait.mp3" type="audio/mpeg"/>
+</audio>
     <main class="container">
         <h1>
             Something big is coming here
@@ -124,10 +144,11 @@
             </span>
         </h1>
     </main>
-
+<button id="musicButton">🔊</button>
     <div class="brand">
         BP Hoche
     </div>
 
 </body>
+    <script src="bphoche.js"> </script>
 </html>
