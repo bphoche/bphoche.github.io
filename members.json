@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Mihai",
+        "nom": "Mihai",
+        "classe": "Terminale",
+        "rank": "Adam et Ève",
+        "photo": "images/membres/mihai.jpeg",
+        "description": "Véritable heightfraud, ce roumain est connu de tous dans l’underground français. S’il n’est pas faded, il est sûrement entrain de combattre l’hypergamy aux côtés de sa dulcinée garance."
+    },
+    {
+        "id": "Stanislaw_Szczepanski",
+        "nom": "Stanislaw Szczepanski",
+        "classe": "Terminale",
+        "rank": "Adam",
+        "photo": "images/membres/stanpolonais.png",
+        "description": "Véritable encyclopédie vivante, ce polonais, aguerri  est l’un des membres les plus qualifiés sur le BLACKPIll . Grâce à des heures studieuses de scroll, il a réussi à se faire un nom dans la communauté. partisan de même obscure et niche, il majore toutes les matières où il trépasse. "
+    }
+]
