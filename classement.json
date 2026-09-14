@@ -1,0 +1,57 @@
+[
+    {
+        "position":1,
+        "id": "Mihai",
+        "nom": "Mihai",
+        "classe": "Terminale",
+        "rank": "Adam et Ève",
+        "photo": "images/membres/mihai.jpeg",
+        "description": "Véritable heightfraud, ce roumain est connu de tous dans l’underground français. S’il n’est pas faded, il est sûrement entrain de combattre l’hypergamy aux côtés de sa dulcinée garance."
+    },
+    {
+        "position":2,
+        "id": "Stanislaw_Szczepanski",
+        "nom": "Stanislaw Szczepanski",
+        "classe": "Terminale",
+        "rank": "Adam",
+        "photo": "images/membres/stanpolonais.png",
+        "description": "Véritable encyclopédie vivante, ce polonais, aguerri  est l’un des membres les plus qualifiés sur le BLACKPIll . Grâce à des heures studieuses de scroll, il a réussi à se faire un nom dans la communauté. partisan de même obscure et niche, il majore toutes les matières où il trépasse. "
+    },    
+    {
+        "position":3,
+        "id": "Paul_Stacy",
+        "nom": "Paul",
+        "classe": "Terminale",
+        "rank": "Stacy",
+        "photo": "images/membres/paul_stacy.jpeg",
+        "description": "Le true Chang. Accompagné de ses acolytes  très niches, il a su ascend pour se hisser dans le top 3 chad de l’école. Ce yamakasi possède toutes les refs inimaginables et est secrètement furry. "
+    },
+    {
+        "position":4,
+        "id": "Arnaud_chadlite",
+        "nom": "Arnaud",
+        "classe": "Terminale",
+        "rank": "Chadlite",
+        "photo": "images/membres/arnaud_chadlite.jpg",
+        "description": "El maestro! Gérer les babys pour lui est un passe temps. Il est le créateur de tous les stickers snaps et à la main mise sur le commerce de ceux ci. Avide fan du psg il passe sa vie à la salle. Véritable go muscu. Il use de son charisme pour pécho des baddies "
+    },    
+    {
+        "position":5,
+        "id": "Ewen_chadlite",
+        "nom": "Ewen",
+        "classe": "Terminale",
+        "rank": "True Adam",
+        "photo": "images/membres/ewen.jpeg",
+        "description": "Le deregleur de marché. Il saura vous impressionner de par sa musculature semblable à CBUM ou encore par son éloquence hors du commun. Il excelle dans tout ce qu’il fait. Véritable chouchou des nanas, il encourage l’hypergamy puisqu’il en bénéficie! Ce tombeur est le visage du club."
+    },    
+    {
+        "position":6,
+        "id": "Ben_jester",
+        "nom": "Ben",
+        "classe": "Terminale",
+        "rank": "Jester",
+        "photo": "images/membres/ben_jester.png",
+        "description":"El Toreador ! Cet effronté est le modèle de tous les membres. Doté d’un humour raffiné et fin, il a su plaire à sa baby adoré. Capable d’envoyer 100 réels à la 100 seconde, il porte toujours la Edgar cut en big 26. Cet Ecuatorien irrésistible demeure le GOAT de la commu."
+    }
+
+]
