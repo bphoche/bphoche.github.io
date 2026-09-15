@@ -9,7 +9,7 @@
     },
     {
         "id": "Stanislaw_Szczepanski",
-        "nom": "Stanislaw Szczepanski",
+        "nom": "Stanislaw",
         "classe": "Terminale",
         "rank": "Adam",
         "photo": "images/membres/stanpolonais.png",
@@ -40,12 +40,41 @@
         "description": "Le deregleur de marché. Il saura vous impressionner de par sa musculature semblable à CBUM ou encore par son éloquence hors du commun. Il excelle dans tout ce qu’il fait. Véritable chouchou des nanas, il encourage l’hypergamy puisqu’il en bénéficie! Ce tombeur est le visage du club."
     },    
     {
-        "id": "Ben_jester",
-        "nom": "Ben",
+        "id": "Raphaël_chad",
+        "nom": "Raphaël",
         "classe": "Terminale",
-        "rank": "Jester",
-        "photo": "images/membres/ben_jester.png",
-        "description":"El Toreador ! Cet effronté est le modèle de tous les membres. Doté d’un humour raffiné et fin, il a su plaire à sa baby adoré. Capable d’envoyer 100 réels à la 100 seconde, il porte toujours la Edgar cut en big 26. Cet Ecuatorien irrésistible demeure le GOAT de la commu."
+        "rank": "Chad",
+        "photo": "images/membres/raphael_chad.jpeg",
+        "description":"El Joga bonito Dou Brazil ! Avec sa testostérone digne d’un moggeur, il a brillamment su conquérir le cœur de sa bien aimée. Avec son doux accent brésilien il a su s’intégrer grâce à son fort charactere venu des favellas. Il combat bien evidemment l’hypergamy qui ronge notre école. "
+    },
+    {
+        "id": "Clovis_True Chang",
+        "nom": "Clovis",
+        "classe": "Terminale",
+        "rank": "True Chang",
+        "photo": "images/membres/clovis_truechang.jpg",
+        "description":"Le ninja Coreen est de la partie. Véritable tombeur, il a laissé tomber sa chance bon nombre de fois pour combattre les LTB. Brainrot ambulant, il a un réseau exceptionnel et a le meilleur appeal de Lab."
+    },    {
+        "id": "Irene_eve",
+        "nom": "Irène",
+        "classe": "Terminale",
+        "rank": "Ève",
+        "photo": "images/membres/irene_eve.png",
+        "description":"Une chanson se fredonne dans les contrées lointaines de l’ohio, c'est celle des miracles d’Irène, sauveuse, envoyant des photos de pieds aux affamés et donneuse de brainrot engagée depuis 1492 sur steal a brainot notement après un mariage avec le dénommé triple t. Point faible : A la phobie des maths, déteste la mangue, et s’est faite courtisée par un 2012 qui 'aime les femmes plus mûres'Point fort : Peut vous dessiner en femboy, a des bases dans la langue de la république islamique du Japon, possède un drip extrême et a déjà mangé un œuf de 100ans."
+    },    {
+        "id": "Simon_jester",
+        "nom": "Simon",
+        "classe": "Terminale",
+        "rank": "Jester, Showman",
+        "photo": "images/membres/simon_jester.png",
+        "description":"Véritable branleur, il est un rayon de soleil dans un monde rongé par la noirceur. A la manière de red hot chili peppers, il chante ses mésaventures amoureuses en se plaignant de l’hypergamy. Véritable poète, il a un humour très particulier et fin. S’est teint les cheveux pour entrer à Agatha et dans l’hyperborée. "
+    },    {
+        "id": "",
+        "nom": "",
+        "classe": "Terminale",
+        "rank": "",
+        "photo": "images/membres/.png",
+        "description":""
     }
 
 ]
