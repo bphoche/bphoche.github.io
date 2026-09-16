@@ -69,6 +69,27 @@
         "photo": "images/membres/simon_jester.png",
         "description":"Véritable branleur, il est un rayon de soleil dans un monde rongé par la noirceur. A la manière de red hot chili peppers, il chante ses mésaventures amoureuses en se plaignant de l’hypergamy. Véritable poète, il a un humour très particulier et fin. S’est teint les cheveux pour entrer à Agatha et dans l’hyperborée. "
     },    {
+        "id": "Zachary_jester",
+        "nom": "Zachary",
+        "classe": "Terminale",
+        "rank": "Jester et chad",
+        "photo": "images/membres/zachary_jester.jpg",
+        "description":"Holy Jew! Fanatique de pieds et de bzez, il est le comique de cet établissement. Armé et dangereux, imprévisibles de par ses capacités en français il forme pourtant avec sa dulcinée un couple si iconique et tuff. "
+    }, {
+        "id": "Anae_stacy",
+        "nom": "Anaé",
+        "classe": "Uknown",
+        "rank": "Stacy",
+        "photo": "images/membres/anae_stacy.png",
+        "description":"So niche not even in the school btw #bacproaltswag Strict diet: peptide,matcha, coco water, pomme de terre viande, potassiummaxing, 12 raw eggs on Wood board with honey on repeat 🔁 #train2vie #underground #bpclupforlife"
+    },  {
+        "id": "clemence_stacy",
+        "nom": "Clémence",
+        "classe": "Terminale",
+        "rank": "Stacy",
+        "photo": "images/membres/clemence_stacy.png",
+        "description":"In cantatrice et discordienne, elle use de ces charmes pour séduire les incels. Elle est la source du plus grand événement de cette année à hoche qui a plongé l’école dans le chaos. Elle vous amadouera avec ses talents de manipulateur, vous êtes ses pions. "
+    },{
         "id": "",
         "nom": "",
         "classe": "Terminale",
