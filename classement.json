@@ -1,6 +1,6 @@
 [
     {
-        "position":1,
+        "position":2,
         "id": "Mihai",
         "nom": "Mihai",
         "classe": "Terminale",
@@ -9,7 +9,7 @@
         "description": "Véritable heightfraud, ce roumain est connu de tous dans l’underground français. S’il n’est pas faded, il est sûrement entrain de combattre l’hypergamy aux côtés de sa dulcinée garance."
     },
     {
-        "position":2,
+        "position":1,
         "id": "Stanislaw_Szczepanski",
         "nom": "Stanislaw Szczepanski",
         "classe": "Terminale",
