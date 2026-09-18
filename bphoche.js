@@ -81,7 +81,7 @@ if (grid && searchInput) {
             card.id = membre.id;
 
             card.innerHTML = `
-                <img src="${membre.photo}" alt="${membre.nom}">
+                <img src="${membre.photo}" loading="lazy" alt="${membre.nom}">
                 <h2>${membre.nom}</h2>
                 <h3 class="rank">${membre.rank}</h3>
                 <p class="classe">${membre.classe}</p>
