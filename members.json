@@ -9,7 +9,7 @@
     },
     {
         "id": "Stanislaw_Szczepanski",
-        "nom": "Stanislaw",
+        "nom": "Stan",
         "classe": "Terminale",
         "rank": "Adam",
         "photo": "images/membres/stanpolonais.png",
@@ -90,12 +90,70 @@
         "photo": "images/membres/clemence_stacy.jpg",
         "description":"In cantatrice et discordienne, elle use de ces charmes pour séduire les incels. Elle est la source du plus grand événement de cette année à hoche qui a plongé l’école dans le chaos. Elle vous amadouera avec ses talents de manipulateur, vous êtes ses pions. "
     },{
-        "id": "",
-        "nom": "",
+        "id": "fabio_chad",
+        "nom": "Fabio",
+        "classe": "Uknonwn",
+        "rank": "Chad, Chef",
+        "photo": "images/membres/fabio.jpg",
+        "description":"A proud Portuguese player, he crushes mothers on League of Legends. Mogger emotes like a god on LoL and in real life. A fervent fan of aura battles, he'll guide you in your fight against hypergamy."
+    },
+{
+        "id": "Ambroise_goggins",
+        "nom": "Ambroise",
         "classe": "Terminale",
-        "rank": "",
-        "photo": "images/membres/.png",
+        "rank": "David Goggins",
+        "photo": "images/membres/ambroise.jpeg",
+        "description":"Ce chad marathonien a plus d’un tour dans son sac. Après nous avoir tous trompé en nous faisant croire qu’il s’envolait pour le pays de la liberté, ce détraqué est aperçu dans les couloirs…  Imaginez toute fois un athlète hors du commun qui dort devant le lycée et qui court 10h d’affilé. Véritable virtuose, il est destiné à être le digne successeur de Chopin."
+    },
+{
+        "id": "Abdou_guts",
+        "nom": "Abdou",
+        "classe": "Terminale",
+        "rank": "True Guts",
+        "photo": "images/membres/abdou.jpeg",
+        "description":"El nomado ! Ce Ramanujan des temps modernes demeure être le Griffith de cette ecole. Ce gym bro a eu une ascension fulgurante dans la chad list, ce qui le poussera peut être dans le top 5… en espérant qu’il trouvera sa casca, amateur de voiture, il a un attrait tout particulier pour la musique. Bref, des bras énormes et un cerveau de genioso."
+    },
+    {
+        "id": "Arthur_chad",
+        "nom": "Arthur",
+        "classe": "Terminale",
+        "rank": "Chad",
+        "photo": "images/membres/arthur_chad.jpeg",
+        "description":"El fenomeno ! Avec un charisme incroyable et une aisance tout bonnement excellente a être bon dans tous les sports, c’est au tennis qu’il tire son épingle du jeu. Véritable champion il a su conquérir avec brio le cœur de sa chérie. La légende dit qu’il va devenir professionnel. Le futur Ben Shelton!"
+    },    {
+        "id": "Karen_stacy",
+        "nom": "Karen",
+        "classe": "Terminale",
+        "rank": "Stacy",
+        "photo": "images/membres/karen_stacy.jpeg",
+        "description":"L’impératrice viet en personne! Elle et son gang Valatulele sont des filles merveilleuses qui ont toutes les Réfs niches et obscurs. Son style de diva saura conquérir votre cœur. Très swag, elle se hisse dans ce qui se fait de mieux à hoche."
+    },  {
+        "id": "Shohan_chad",
+        "nom": "Shohan",
+        "classe": "Terminale",
+        "rank": "Chad",
+        "photo": "images/membres/shohan_chad.png",
+        "description":"Ce mogger venu du pays du curry est un intellectuel avéré. Ne vous fiez pas à ses muscles saillants, au fond, c’est un un doudou qui ne fait que de rigoler. Discipliné il mène la guerre contre ces MTB  qui propagent l’hypergamy, true soldier of BP. "
+    }{
+        "id": "Come_dancer",
+        "nom": "Côme",
+        "classe": "Terminale",
+        "rank": "True Dancer",
+        "photo": "images/membres/come_dancer.jpeg",
+        "description":"Jeune indépendantiste basque ce musicien tres prometteur sur la scène underground sait se faire respecter et surtout inspire le charisme. Il refuse deja des feat avec jeune morty ou encore d'autre artistes trop mainstream pour lui."
+    }{
+        "id": "Romain_adam",
+        "nom": "Romain",
+        "classe": "Uknown",
+        "rank": "Adam lite",
+        "photo": "images/membres/romain_chad.png",
+        "description":"El Famoso, il se joue des filles comme il joue avec la balle de tennis, il a usé d’une superbe photo de profil pour attirer des hommes. Avec un passif très glorieux, il se hisse comme le Saint Esprit de La Bruyère. Accompagné de ses acolytes la légende raconte qu’il aurait dm une cinquantaine de femmes, un record absolu. "
+    }{
+        "id": "uk",
+        "nom": "Uknown",
+        "classe": "Terminale",
+        "rank": "Uknown",
+        "photo": "images/membres/.jpeg",
         "description":""
     }
-
 ]
