@@ -354,7 +354,7 @@ a {
     .members-grid {
         grid-template-columns: 1fr;
         padding: 20px;
-        border-radius: 20px;
+        border-radius: 20px ;
     }
 }
 .member-search {
