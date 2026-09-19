@@ -1,12 +1,5 @@
 [
-    {
-        "id": "Mihai",
-        "nom": "Mihai",
-        "classe": "Terminale",
-        "rank": "Adam et Ève",
-        "photo": "images/membres/mihai.jpeg",
-        "description": "Véritable heightfraud, ce roumain est connu de tous dans l’underground français. S’il n’est pas faded, il est sûrement entrain de combattre l’hypergamy aux côtés de sa dulcinée garance."
-    },
+    
     {
         "id": "Stanislaw_Szczepanski",
         "nom": "Stan",
@@ -14,7 +7,14 @@
         "rank": "Adam",
         "photo": "images/membres/stanpolonais.png",
         "description": "Véritable encyclopédie vivante, ce polonais, aguerri  est l’un des membres les plus qualifiés sur le BLACKPIll . Grâce à des heures studieuses de scroll, il a réussi à se faire un nom dans la communauté. partisan de même obscure et niche, il majore toutes les matières où il trépasse. "
-    },    
+    },    {
+        "id": "Mihai",
+        "nom": "Mihai",
+        "classe": "Terminale",
+        "rank": "Adam et Ève",
+        "photo": "images/membres/mihai.jpeg",
+        "description": "Véritable heightfraud, ce roumain est connu de tous dans l’underground français. S’il n’est pas faded, il est sûrement entrain de combattre l’hypergamy aux côtés de sa dulcinée garance."
+    },
     {
         "id": "Paul_Stacy",
         "nom": "Paul",
@@ -96,6 +96,13 @@
         "rank": "Chad, Chef",
         "photo": "images/membres/fabio.jpg",
         "description":"A proud Portuguese player, he crushes mothers on League of Legends. Mogger emotes like a god on LoL and in real life. A fervent fan of aura battles, he'll guide you in your fight against hypergamy."
+    },{
+        "id": "Ben_jester",
+        "nom": "Ben",
+        "classe": "Terminale",
+        "rank": "Jester",
+        "photo": "images/membres/ben_jester.png",
+        "description":"El Toreador ! Cet effronté est le modèle de tous les membres. Doté d’un humour raffiné et fin, il a su plaire à sa baby adoré. Capable d’envoyer 100 réels à la 100 seconde, il porte toujours la Edgar cut en big 26. Cet Ecuatorien irrésistible demeure le GOAT de la commu."
     },
 {
         "id": "Ambroise_goggins",
@@ -135,12 +142,12 @@
         "photo": "images/membres/shohan_chad.png",
         "description":"Ce mogger bengal est un intellectuel avéré. Ne vous fiez pas à ses muscles saillants, au fond, c’est un un doudou qui ne fait que de rigoler. Discipliné il mène la guerre contre ces MTB  qui propagent l’hypergamy, true soldier of BP. "
     },{
-        "id": "Come_dancer",
-        "nom": "Côme",
+        "id": "seb_chad",
+        "nom": "Seb",
         "classe": "Terminale",
-        "rank": "True Dancer",
-        "photo": "images/membres/come_dancer.jpeg",
-        "description":"Jeune indépendantiste basque ce musicien tres prometteur sur la scène underground sait se faire respecter et surtout inspire le charisme. Il refuse deja des feat avec jeune morty ou encore d'autre artistes trop mainstream pour lui."
+        "rank": "Chad Anonymous",
+        "photo": "images/membres/seb_chad.JPG",
+        "description":"El Dorel roumain ! Véritable philosphe gooner, c'est le cerveau du club. Véritable hackeur mystérieux, il se joue de l’informatique dont il est le maître incontesté. Rien n’a plus de secret pour lui. Semblable à Mr.Robot, la légende raconte que c’est lui Anonymous."
     },{
         "id": "Romain_adam",
         "nom": "Romain",
@@ -149,13 +156,6 @@
         "photo": "images/membres/romain_adam.png",
         "description":"El Famoso, il se joue des filles comme il joue avec la balle de tennis, il a usé d’une superbe photo de profil pour attirer des hommes. Avec un passif très glorieux, il se hisse comme le Saint Esprit de La Bruyère. Accompagné de ses acolytes la légende raconte qu’il aurait dm une cinquantaine de femmes, un record absolu. "
     },{
-        "id": "seb_chad",
-        "nom": "Seb",
-        "classe": "Terminale",
-        "rank": "Chad Anonymous",
-        "photo": "images/membres/seb_chad.JPG",
-        "description":"El Dorel roumain ! Véritable philosphe gooner, c'est le cerveau du club. Véritable hackeur mystérieux, il se joue de l’informatique dont il est le maître incontesté. Rien n’a plus de secret pour lui. Semblable à Mr.Robot, la légende raconte que c’est lui Anonymous."
-    },{
         "id": "yael_soukaina",
         "nom": "Souky et Yaël",
         "classe": "Terminale",
@@ -163,15 +163,22 @@
         "photo": "images/membres/yael_soukaina.jpeg",
         "description":"Les besties inséparables ! Elles se pavanent dans les couloirs de hoche avec des styles qui font tourner toutes les têtes des pains du lycée. Vraies larpeuses, elles demeurent être les bosslady iconiques du lycée. Avec des coupes de cheveux si soignées et si étincelantes, elles sont des rayons de soleil et sont grave bons délires. "
     },{
+        "id": "Come_dancer",
+        "nom": "Côme",
+        "classe": "Terminale",
+        "rank": "True Dancer",
+        "photo": "images/membres/come_dancer.jpeg",
+        "description":"Jeune indépendantiste basque ce musicien très prometteur sur la scène underground sait se faire respecter et surtout inspire le charisme. Il refuse deja des feat avec jeune morty ou encore d'autre artistes trop mainstream pour lui."
+    },{
         "id": "Antonin_chad",
         "nom": "Antonin",
         "classe": "Terminale",
         "rank": "El chad physicien",
         "photo": "images/membres/antonin_chad.jpeg",
-        "description":"El scientifico prodigioso ! Ce philosophe et mathématicien de renom et d’exception est le messi qui apporte la connaissance au club. Après une  aventure amoureuse salée, il a barbemaxx et agemaxx pour paraître plus vieux pour attirer des 07 et des 08. Ce magicien est très certainement un polytechnicien."
+        "description":"El scientifico prodigioso ! Ce philosophe et mathématicien de renom et d’exception est le messie qui apporte la connaissance au club. Après une  aventure amoureuse salée, il a barbemaxx et agemaxx pour paraître plus vieux pour attirer des 07 et des 08. Ce magicien est très certainement un polytechnicien."
     },{
         "id": "Shohan_gillou",
-        "nom": "Shohan gillou",
+        "nom": "Shohan et Gillou",
         "classe": "Terminale",
         "rank": "Chads, jesters, dérègleurs",
         "photo": "images/membres/shohan_gillou.jpeg",
