@@ -149,11 +149,39 @@
         "photo": "images/membres/romain_adam.png",
         "description":"El Famoso, il se joue des filles comme il joue avec la balle de tennis, il a usé d’une superbe photo de profil pour attirer des hommes. Avec un passif très glorieux, il se hisse comme le Saint Esprit de La Bruyère. Accompagné de ses acolytes la légende raconte qu’il aurait dm une cinquantaine de femmes, un record absolu. "
     },{
+        "id": "seb_chad",
+        "nom": "Seb",
+        "classe": "Terminale",
+        "rank": "Chad Anonymous",
+        "photo": "images/membres/seb_chad.JPG",
+        "description":"El Dorel roumain ! Véritable philosphe gooner, c'est le cerveau du club. Véritable hackeur mystérieux, il se joue de l’informatique dont il est le maître incontesté. Rien n’a plus de secret pour lui. Semblable à Mr.Robot, la légende raconte que c’est lui Anonymous."
+    },{
+        "id": "yael_soukaina",
+        "nom": "Souky et Yaël",
+        "classe": "Terminale",
+        "rank": "Stacys swags",
+        "photo": "images/membres/yael_soukaina.jpeg",
+        "description":"Les besties inséparables ! Elles se pavanent dans les couloirs de hoche avec des styles qui font tourner toutes les têtes des pains du lycée. Vraies larpeuses, elles demeurent être les bosslady iconiques du lycée. Avec des coupes de cheveux si soignées et si étincelantes, elles sont des rayons de soleil et sont grave bons délires. "
+    },{
+        "id": "Antonin_chad",
+        "nom": "Antonin",
+        "classe": "Terminale",
+        "rank": "El chad physicien",
+        "photo": "images/membres/antonin_chad.jpeg",
+        "description":"El scientifico prodigioso ! Ce philosophe et mathématicien de renom et d’exception est le messi qui apporte la connaissance au club. Après une  aventure amoureuse salée, il a barbemaxx et agemaxx pour paraître plus vieux pour attirer des 07 et des 08. Ce magicien est très certainement un polytechnicien."
+    },{
+        "id": "Shohan_gillou",
+        "nom": "Shohan gillou",
+        "classe": "Terminale",
+        "rank": "Chads, jesters, dérègleurs",
+        "photo": "images/membres/shohan_gillou.jpeg",
+        "description":"Le duo le plus connu de tous. Ces deux bêtes sexuelles sont inséparables et sexys. S’ils vous avaient le malheur de les croiser ensemble, bonne chance pour survivre, ces deux prêtres sont en constant fou rire. Good vibes only, ils représentent la diversité. Attention à vos girlfriend, ces tombeurs bien soignées sont a l’affût."
+    },{
         "id": "uk",
         "nom": "Uknown",
         "classe": "Terminale",
-        "rank": "Uknown",
-        "photo": "images/membres/.jpeg",
-        "description":""
+        "rank": "?",
+        "photo": "bphoche_logo.png",
+        "description":"???"
     }
 ]
