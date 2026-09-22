@@ -68,14 +68,7 @@
         "rank": "Jester, Showman",
         "photo": "images/membres/simon_jester.png",
         "description":"Véritable branleur, il est un rayon de soleil dans un monde rongé par la noirceur. A la manière de red hot chili peppers, il chante ses mésaventures amoureuses en se plaignant de l’hypergamy. Véritable poète, il a un humour très particulier et fin. S’est teint les cheveux pour entrer à Agatha et dans l’hyperborée. "
-    },    {
-        "id": "Zachary_jester",
-        "nom": "Zachary",
-        "classe": "Terminale",
-        "rank": "Jester et chad",
-        "photo": "images/membres/zachary_jester.jpg",
-        "description":"Holy Jew! Fanatique de pieds et de bzez, il est le comique de cet établissement. Armé et dangereux, imprévisibles de par ses capacités en français il forme pourtant avec sa dulcinée un couple si iconique et tuff. "
-    }, {
+    },   {
         "id": "Anae_stacy",
         "nom": "Anaé",
         "classe": "Uknown",
@@ -182,7 +175,7 @@
         "classe": "Terminale",
         "rank": "Chads, jesters, dérègleurs",
         "photo": "images/membres/shohan_gillou.jpeg",
-        "description":"Le duo le plus connu de tous. Ces deux bêtes sexuelles sont inséparables et sexys. S’ils vous avaient le malheur de les croiser ensemble, bonne chance pour survivre, ces deux prêtres sont en constant fou rire. Good vibes only, ils représentent la diversité. Attention à vos girlfriend, ces tombeurs bien soignées sont a l’affût."
+        "description":"Le duo le plus connu de tous. Ces deux bamis sont inséparables et sexys. S’ils vous avaient le malheur de les croiser ensemble, bonne chance pour survivre, ces deux prêtres sont en constant fou rire. Good vibes only, ils représentent la diversité. Attention à vos girlfriend, ces tombeurs bien soignées sont a l’affût."
     },{
         "id": "uk",
         "nom": "Uknown",
